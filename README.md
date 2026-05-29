@@ -8,5 +8,5 @@
 - 💻 `Minha experiência é em desenvolvimento Java;`
 - 🚀 Construindo pontes digitais com código;
 - 📚 Graduado em Sistemas de Informação pela PUC Minas;
-- 📚 Estudando Pós-graduação em Desenvolvimento de Sistemas com JAVA;
+- 📚 Pós-graduado em Desenvolvimento de Sistemas Web com JAVA;
 - 📌 Baseado em Minas Gerais, Brasil;
