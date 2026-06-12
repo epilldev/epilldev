@@ -6,6 +6,7 @@
 <p> Sou desenvolvedor de software e venho criando soluções desde 2019. Tenho uma paixão por desenvolvimento, tecnologia, futebol e busco aprender algo novo todos os dias.</p>
 
 - 💻 `Minha experiência é em desenvolvimento Java;`
+- 💻 `Aventuras com desenvolvimento em Swift`
 - 🚀 Construindo pontes digitais com código;
 - 📚 Graduado em Sistemas de Informação pela PUC Minas;
 - 📚 Pós-graduado em Desenvolvimento de Sistemas Web com JAVA;
