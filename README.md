@@ -1,4 +1,4 @@
-# 👨‍💻 Felipe Joaquim
+# 👨🏽‍💻 Felipe Joaquim
 
 <h3 align="center">Senior Java Backend Developer · Software Architecture · Cloud Computing</h3>
 
@@ -22,39 +22,6 @@ Tenho experiência em diferentes etapas do ciclo de desenvolvimento de software,
 
 Acredito que engenharia de software vai além de escrever código: envolve compreender problemas, tomar boas decisões arquiteturais e construir soluções confiáveis, escaláveis e sustentáveis.
 
-## 🎓 Formação acadêmica
-
-
-- **Bacharelado em Sistemas de Informação** — PUC Minas
-- **Especialização em Arquitetura de Software Distribuído** — PUC Minas
-- **Pós-graduação em Desenvolvimento de Sistemas Web com Java** — UNIASSELVI
-
-```json
-{
-  "name": "Felipe Joaquim",
-  "role": "Senior Java Backend Developer",
-  "experience": "7+ years",
-  "main_language": "Java",
-  "main_framework": "Spring Boot",
-  "architecture": [
-    "Microservices",
-    "Hexagonal Architecture",
-    "Domain-Driven Design (DDD)",
-    "Distributed Systems"
-  ],
-  "cloud_platforms": [
-    "AWS",
-    "Microsoft Azure",
-    "Google Cloud Platform"
-  ],
-  "interests": [
-    "Software Architecture",
-    "Cloud Computing",
-    "Artificial Intelligence",
-    "Software Engineering"
-  ]
-}
-```
 
 ## ⚙️ Tech Stack
 
@@ -111,6 +78,41 @@ Acredito que engenharia de software vai além de escrever código: envolve compr
 </p>
 
 ---
+
+
+## 🎓 Formação acadêmica
+
+
+- **Bacharelado em Sistemas de Informação** — PUC Minas
+- **Pós-graduação em Arquitetura de Software Distribuído** — PUC Minas
+- **Pós-graduação em Desenvolvimento de Sistemas Web com Java** — UNIASSELVI
+
+```json
+{
+  "name": "Felipe Joaquim",
+  "role": "Senior Java Backend Developer",
+  "experience": "7+ years",
+  "main_language": "Java",
+  "main_framework": "Spring Boot",
+  "architecture": [
+    "Microservices",
+    "Hexagonal Architecture",
+    "Domain-Driven Design (DDD)",
+    "Distributed Systems"
+  ],
+  "cloud_platforms": [
+    "AWS",
+    "Microsoft Azure",
+    "Google Cloud Platform"
+  ],
+  "interests": [
+    "Software Architecture",
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "Software Engineering"
+  ]
+}
+```
 
 ## 🏗️ Mentalidade de Engenharia
 
