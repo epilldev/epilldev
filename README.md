@@ -27,7 +27,7 @@ Acredito que engenharia de software vai além de escrever código: envolve compr
 
 - **Bacharelado em Sistemas de Informação** — PUC Minas
 - **Especialização em Arquitetura de Software Distribuído** — PUC Minas
-- **Pós-graduação em Desenvolvimento de Sistemas Web com Java** — Uniasselvi
+- **Pós-graduação em Desenvolvimento de Sistemas Web com Java** — UNIASSELVI
 
 ```json
 {
